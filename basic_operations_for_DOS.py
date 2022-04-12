@@ -1,5 +1,5 @@
 #Code originally made by Inspector3ug
-#https://github.com/Inspector3ug/Basic-operations
+#https://github.com/Inspector3ug/Basic-operations-
 #Basic operations for windows 
 
 import os
