@@ -39,7 +39,7 @@ if work == "3":
 if work == "4":
     print("Opening GitHub... ")
     time.sleep(3)
-    wb.open("https://github.com/Inspector3ug/Basic-operations-")
+    wb.open("https://github.com/Inspector3ug/Basic-operations")
 
 if work == "5":
     print("Goodbye!")
