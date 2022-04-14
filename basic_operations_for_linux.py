@@ -24,7 +24,7 @@ work = input("Select your operation [1/2/3/4/5]: ")
 if work == "1":
         print("Sleeping computer...")
         time.sleep(3)
-        os.system("systemctl suspend)
+        os.system("systemctl suspend" )
 
 if work == "2":
     print("Shutdowning computer...")
