@@ -31,7 +31,7 @@ For Windows, the code requires to run as administrator but I recommend you to ru
 For any issues report, please email me to inspector3ugpy@gmail.com
 
 ## Quick links:
-Basic operations for Windows Python script ([Download here](https://github.com/Inspector3ug/Basic-operations/blob/main/basic_operations_for_DOS.py))
+Basic operations for Windows Python script ([Download here](https://github.com/Inspector3ug/Basic-operations/releases/download/v1.1/basic_operations_for_DOS_v1.1.py))
 
 Basic operations for Linux Python script ([Download here](https://github.com/Inspector3ug/Basic-operations/blob/main/basic_operations_for_linux.py))
 
