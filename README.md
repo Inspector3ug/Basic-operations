@@ -1,6 +1,6 @@
 # Basic-operations
 
-Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+**Hello everyone! 
 
 This is Basic operations for Windows and Linux. For Mac, maybe it is similar to [Linux](https://github.com/Inspector3ug/Basic-operations/blob/main/basic_operations_for_linux.py) and it requires Python 3. If you run with Python 2, some code won't work. But I recommend you to use [Python 3.10.4](https://www.python.org/downloads/release/python-3104/).
 
